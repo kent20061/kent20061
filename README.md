@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kent20061
+- 👋 Hi, I’m @Kent Roland T. Dayapan
 - 👀 I’m interested in web3  
 - 🌱 I’m currently learning web3
 - 💞️ I’m looking to collaborate on web3
